@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mddanishhisham@gmail.com
+	name = dan hisham
